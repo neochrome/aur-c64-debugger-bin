@@ -15,6 +15,7 @@ depends=(
 )
 makedepends=(
 	'upx'
+	'patchelf'
 )
 checkdepends=()
 optdepends=()
